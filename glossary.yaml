@@ -1,0 +1,359 @@
+- en: activation function
+  ja: 活性化関数
+- en: additive margin
+  ja: 加算マージン
+- en: alignment
+  ja: アラインメント
+- en: analytic score
+  ja: 観点スコア
+- en:
+    - artificial intelligence
+    - AI
+  ja: 人工知能
+- en: attention
+  ja:
+    - 注意
+    - 注意機構
+- en: autoencoder
+  ja: 自己符号化器
+- en:
+    - automatic speech recognition
+    - ASR
+  ja: 自動音声認識
+- en: autoregressive
+  ja: 自己回帰的
+- en: backpropagation
+  ja: 誤差逆伝播法
+- en: batch normalization
+  ja: バッチ正則化
+- en: bayesian network
+  ja: ベイジアンネットワーク
+- en: beam search
+  ja:
+    - ビーム探索
+    - ビームサーチ
+- en:
+    - byte pair encoding
+    - BPE
+  ja: バイト対符号化
+- en: catastrophic forgetting
+  ja: 破滅的忘却
+- en: causal language model
+  ja: 因果言語モデル
+- en: compositionality
+  ja: 合成性
+- en:
+    - computer vision
+    - CV
+  ja: コンピューター・ビジョン
+- en: continual pre-training
+  ja: 継続事前学習
+- en: contrastive learning
+  ja: 対照学習
+- en:
+    - contrastive predictive coding
+    - CPC
+  ja: 対照予測コーディング
+- en: convolution
+  ja: 畳み込み
+- en: convolutional neural network
+  ja: 畳み込みニューラルネットワーク
+- en: coreference resolution
+  ja: 共参照解析
+- en: data augmentation
+  ja: データ拡張
+- en: decoder
+  ja: デコーダー
+- en: deep learning
+  ja: 深層学習
+- en: dependency parsing
+  ja: 依存構文解析
+- en: diffusion model
+  ja: 拡散モデル
+- en: dimensionality reduction
+  ja: 次元削減
+- en:
+    - direct preference optimization
+    - DPO
+  ja: 直接選好最適化
+- en: discriminator
+  ja: 識別器
+- en: disinformation
+  ja: 偽情報
+- en: distillation
+  ja: 蒸留
+- en: embedding
+  ja: 埋め込み
+- en: embodied AI
+  ja: 身体性AI
+- en: emergent ability
+  ja: 創発的能力
+- en: encoder
+  ja: エンコーダー
+- en: energy based models
+  ja: エネルギーベースモデル
+- en: explainability
+  ja: 説明可能性
+- en: exposure bias
+  ja: 露出バイアス
+- en: federated learning
+  ja: 連合学習
+- en: feed-forward network
+  ja: 順伝播型ニューラルネットワーク
+- en: few-shot
+  ja: 数ショット
+- en: fine-tuning
+  ja:
+    - ファインチューニング
+    - 微調整
+- en: foundation model
+  ja: 基盤モデル
+- en:
+    - generative adversarial network
+    - GAN
+  ja: 敵対的生成ネットワーク
+- en: generative model
+  ja: 生成モデル
+- en: generator
+  ja: 生成器
+- en: gradient
+  ja: 勾配
+- en: gradient descent
+  ja: 勾配降下法
+- en:
+    - graph neural network
+    - GNN
+  ja: グラフニューラルネットワーク
+- en: grounding
+  ja:
+    - グラウンディング
+    - 接地
+- en: holistic score
+  ja: 総合スコア
+- en: human-in-the-loop
+  ja: 人間参加型
+- en: hyperparameter
+  ja: ハイパーパラメータ
+- en: inductive bias
+  ja: 帰納バイアス
+- en: inference
+  ja: 推論
+- en: instruction tuning
+  ja: 指示チューニング
+- en: inter-rater agreement
+  ja: 評価者間一致度
+- en: knowledge base
+  ja: 知識ベース
+- en: language model
+  ja: 言語モデル
+- en:
+    - large language model
+    - LLM
+  ja: 大規模言語モデル
+- en: latent representation
+  ja: 潜在表現
+- en: latent variable
+  ja: 潜在変数
+- en: layer normalization
+  ja: レイヤー正則化
+- en: LLM-as-a-Judge
+  ja: LLMを用いた判定
+- en:
+    - long short-term memory
+    - LSTM
+  ja: 長短期記憶
+- en: loss
+  ja: 損失
+- en: loss function
+  ja: 損失関数
+- en: lottery ticket hypothesis
+  ja: 宝くじ仮説
+- en: machine comprehension
+  ja: 機械読解
+- en:
+    - machine learning
+    - ML
+  ja: 機械学習
+- en: machine translation
+  ja: 機械翻訳
+- en: markov decision process
+  ja: マルコフ決定過程
+- en: masked language model
+  ja: マスク言語モデル
+- en:
+    - mean opinion score
+    - MOS
+  ja: 平均オピニオン評点
+- en: meta learning
+  ja: メタ学習
+- en:
+    - mixture of experts
+    - MoE
+  ja: 混合エキスパート
+- en:
+    - multilayer perceptron
+    - MLP
+  ja: 多層パーセプトロン
+- en:
+    - named entity recognition
+    - NER
+  ja: 固有表現抽出
+- en:
+    - natural language processing
+    - NLP
+  ja: 自然言語処理
+- en: noise contrastive estimation
+  ja: 雑音対照推定
+- en: online learning
+  ja: オンライン学習
+- en: optimizer
+  ja: 最適化器
+- en: overfitting
+  ja: 過学習
+- en: parsing
+  ja: 構文解析
+- en:
+    - part-of-speech
+    - PoS
+  ja: 品詞
+- en:
+    - part-of-speech tagging
+    - PoS tagging
+  ja: 品詞タグ付け
+- en: perplexity
+  ja: パープレキシティ
+- en: post-training
+  ja: 事後学習
+- en: pre-trained language model
+  ja: 事前学習言語モデル
+- en: pre-training
+  ja: 事前学習
+- en: prefix-constrained decoding
+  ja: 接頭辞制約デコーディング
+- en:
+    - principal component analysis
+    - PCA
+  ja: 主成分分析
+- en: proficiency
+  ja:
+    - 言語習熟度
+    - 習熟度
+- en: prompt
+  ja: プロンプト
+- en: pruning
+  ja:
+    - 刈り込み
+    - 枝刈り
+- en:
+    - question answering
+    - QA
+  ja: 質問応答
+- en:
+    - recurrent neural network
+    - RNN
+  ja:
+    - 回帰型ニューラルネットワーク
+    - 再帰型ニューラルネットワーク
+- en: regularization
+  ja: 正則化
+- en:
+    - reinforcement learning
+    - RL
+  ja: 強化学習
+- en:
+    - reinforcement learning from from human feedback
+    - RLHF
+  ja: 人間フィードバックによる強化学習
+- en: representation learning
+  ja: 表現学習
+- en: residual network
+  ja: 残差ネットワーク
+- en: scaling law
+  ja: スケール則
+- en: self-attention
+  ja:
+    - 自己注意
+    - 自己注意機構
+- en: self-instruct
+  ja: 自己指示
+- en: self-supervised training
+  ja: 自己教師学習
+- en: self-training
+  ja: 自己学習
+- en: semantic role labeling
+  ja: 意味役割付与
+- en: semantic segmentation
+  ja: 領域分割
+- en: semi-supervised learning
+  ja: 半教師あり学習
+- en: sentence embedding
+  ja: 文埋め込み
+- en: sentiment analysis
+  ja: 感情分析
+- en: slot filling
+  ja: スロット充足
+- en: spontaneous speech
+  ja: 自由発話
+- en:
+    - state space model
+    - SSM
+  ja: 状態空間モデル
+- en:
+    - state-of-the-art
+    - SOTA
+  ja:
+    - 最先端
+    - 最先端手法
+    - 最高水準
+- en:
+    - stochastic gradient descent
+    - SGD
+  ja: 確率的勾配降下法
+- en: stop word
+  ja: ストップワード
+- en: subword
+  ja: サブワード
+- en: supervised learning
+  ja: 教師あり学習
+- en: syntax tree
+  ja: 構文木
+- en: teacher forcing
+  ja: 教師強制
+- en: text simplification
+  ja: テキスト平易化
+- en: text summarization
+  ja: テキスト要約
+- en:
+    - text-to-speech
+    - TTS
+  ja:
+    - 音声合成
+    - テキスト読み上げ
+- en: tokenization
+  ja: トークン化
+- en: tokenizer
+  ja: トークナイザー
+- en: training
+  ja: 学習
+- en: transductive
+  ja:
+    - トランスダクション
+    - トランスダクション型学習
+- en: transfer learning
+  ja: 転移学習
+- en: transformer
+  ja: トランスフォーマー
+- en: unsupervised learning
+  ja: 教師なし学習
+- en:
+    - variational autoencoder
+    - VAE
+  ja: 変分自己符号化器
+- en: vectorization
+  ja: ベクトル化
+- en: vocabulary
+  ja: 語彙
+- en: word embedding
+  ja: 単語埋め込み
+- en: zero-shot
+  ja: ゼロショット
