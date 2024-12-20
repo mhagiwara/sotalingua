@@ -76,6 +76,7 @@
     - direct preference optimization
     - DPO
   ja: 直接選好最適化
+  ref: https://arxiv.org/abs/2305.18290
 - en: discriminator
   ja: 識別器
 - en: disinformation
@@ -133,7 +134,7 @@
 - en: human-in-the-loop
   ja: 人間参加型
 - en: hyperparameter
-  ja: ハイパーパラメータ
+  ja: ハイパーパラメーター
 - en: inductive bias
   ja: 帰納バイアス
 - en: inference
@@ -156,6 +157,7 @@
   ja: 潜在変数
 - en: layer normalization
   ja: レイヤー正則化
+  ref: https://arxiv.org/abs/1607.06450
 - en: LLM-as-a-Judge
   ja: LLMを用いた判定
 - en:
@@ -240,6 +242,11 @@
     - 習熟度
 - en: prompt
   ja: プロンプト
+- en:
+    - Proximal Policy Optimization
+    - PPO
+  ja: 近接方策最適化
+  ref: https://arxiv.org/abs/1707.06347
 - en: pruning
   ja:
     - 刈り込み
@@ -264,10 +271,18 @@
     - reinforcement learning from from human feedback
     - RLHF
   ja: 人間フィードバックによる強化学習
+  ref: https://arxiv.org/abs/2203.02155
 - en: representation learning
   ja: 表現学習
-- en: residual network
+- en:
+    - residual network
+    - ResNet
   ja: 残差ネットワーク
+  ref: https://arxiv.org/abs/1512.03385
+- en:
+    - retrieval-augmented generation
+    - RAG
+  ja: 検索拡張生成
 - en: scaling law
   ja: スケール則
 - en: self-attention
@@ -313,6 +328,12 @@
   ja: ストップワード
 - en: subword
   ja: サブワード
+- en:
+    - supervised fine-tuning
+    - SFT
+  ja:
+    - 教師ありファインチューニング
+    - 教師あり微調整
 - en: supervised learning
   ja: 教師あり学習
 - en: syntax tree
